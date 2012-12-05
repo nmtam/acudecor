@@ -582,4 +582,8 @@
 	width:486px; 
 	background-position:0 -322px;
 }
+.showcase_sub_title{
+	font:normal 200px Arial; color:#fff;
+	position:fixed; bottom:0; right:0;
+}
 /* end of Showcases */
