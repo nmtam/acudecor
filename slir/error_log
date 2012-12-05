@@ -1,0 +1,228 @@
+[03-May-2012 11:02:21] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:21] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:21] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:21] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:21] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:21] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:21] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:22] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:22] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:22] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:22] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:02:22] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:03:54] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:03:54] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:03:54] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:03:54] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:03:54] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:10:57] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
+[03-May-2012 11:11:17] PHP Fatal error:  Uncaught exception 'SLIRException' with message '2 ini_set() has been disabled for security reasons
+
+File: /home/suristud/public_html/demo/slir/slir.class.php
+Line 433' in /home/suristud/public_html/demo/slir/slirexception.class.php:244
+Stack trace:
+#0 [internal function]: SLIRException::error(2, 'ini_set() has b...', '/home/suristud/...', 433, Array)
+#1 /home/suristud/public_html/demo/slir/slir.class.php(433): ini_set('memory_limit', '16M')
+#2 /home/suristud/public_html/demo/slir/slir.class.php(444): SLIR->allocateMemory()
+#3 /home/suristud/public_html/demo/slir/slir.class.php(227): SLIR->render()
+#4 /home/suristud/public_html/demo/slir/index.php(37): SLIR->__construct()
+#5 {main}
+  thrown in /home/suristud/public_html/demo/slir/slirexception.class.php on line 244
