@@ -597,10 +597,10 @@
   height:85px;
 }
 .headlines_content {
-  width: 725px;
+  width: 723px;
 }
 .inside_content_wrapper .headlines_items {
-  height: 151px;
+  height: 150px;
   margin-top: 8px;
   border: 1px solid #E2E2E2;
 }
@@ -618,12 +618,10 @@
   color: #004a80;
   font:normal 18px/18.4px Arial, Verdana;
   margin: 10px 0px;
-  text-align: justify;
 }
 .headlines_items .headlines_summary {
   color: #363636;
   font:normal 12px Arial, Verdana;
-  text-align: justify;
 }
 /* end of headlines */
 /* consultant news page */ 
@@ -668,25 +666,88 @@
 .consultant_container .consultant_titles  {
   font: normal 28px Arial, Verdana;
   color: #363636;
+  margin-bottom: 18px;
 }
 .consultant_titles .consultant_times {
-  margin: 10px;
   width: 100%;
   font: normal 14px Arial, Verdana;
-  background: url("/imgs/sprite.png") no-repeat scroll 0 0 transparent;
+  margin:10px 0px;
 }
 .consultant_details .consultant_hightlight {
   font: normal 14px Arial, Verdana;
-  text-align: justify;
 }
 .consultant_details .consultalt_image {
   text-align: center;
-  margin-top: 15px;
+  margin: 15px 70px;
 }
-
+.consultant_details .consultalt_image .image_notice {
+  background: #ececec;
+  margin: 15px 0px;
+  text-align: left;
+  font: normal 12px/18.4px Arial, Verdana;
+  padding: 6px;
+}
+.consultant_container .news_monthly_titles {
+  color: #363636;
+  padding: 10px 0px;
+  font: normal 18px Arial, Verdana;
+}
+.consultant_container .social_networks {
+  color: #363636;
+  padding: 10px 0px;
+  width: 690px;
+  height: 20px;
+  font: normal 18px Arial, Verdana;
+}
 .consultant_details .consultant_news_content {
   font: normal 14px Arial, Verdana;
-  text-align: justify;
   margin-top: 18px;
+}
+ .consultant_times .image_clock {
+  vertical-align: baseline;
+  margin-right: 5px;
+}
+
+.consultant_times .image_back{
+  vertical-align: top;
+}
+.consultant_container .social_networks .social_notice{
+  text-transform:uppercase;
+  padding: 0px 10px 0px 10px;
+  float:left;
+}
+
+.consultant_container .social_networks .social_facebook{
+  background: url("imgs/sprite.png") no-repeat -620px 0px;
+  height: 21px;
+  width: 25px;
+  float:left;
+}
+
+.consultant_container .social_networks .social_twitter{
+  background: url("imgs/sprite.png") no-repeat -646px 0px;
+  height: 21px;
+  width: 25px;
+  float:left;
+}
+
+.consultant_container .social_networks .social_gplus{
+  background: url("imgs/sprite.png") no-repeat -671px 0px;
+  height: 21px;
+  width: 25px;
+  float:left;
+}
+.consultant_container .social_networks .social_backtotop {
+  text-transform:uppercase;
+  color: #004a80;
+  font: font: normal 10px/18.4px Arial, Verdana;
+  float: right;
+  margin-right: 18px;
+}
+.consultant_details .news_details_related {
+  text-transform:uppercase;
+  color: #363636;
+  font: bold 14px/18.4px Arial, Verdana;
+  padding: 2px 0px;
 }
 /* end of consultant details page */
