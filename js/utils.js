@@ -92,7 +92,8 @@ function initXSXSlide(){
             speed: 400,
             timeout: 0,
 			after: _increaseCounter,
-			before: _hideAllDetail
+			before: _hideAllDetail,
+			cleartypeNoBg: true
         });
     }
 	
@@ -130,7 +131,8 @@ function initCGTVSlide(){
             prev: '.chuyengiatuvan_controller .next',
             speed: 400,
             timeout: 0,
-			after: _increaseCounter
+			after: _increaseCounter,
+			cleartypeNoBg: true
 
         });
 		
@@ -175,7 +177,8 @@ function initHPLatestNews(){
             next: '.latest_news .controller .next',
             prev: '.latest_news .controller .prev',
             speed: 400,
-            timeout: hp_latestnews_timeout
+            timeout: hp_latestnews_timeout,
+			cleartypeNoBg: true
         });
     }
 }
