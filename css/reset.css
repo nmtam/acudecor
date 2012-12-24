@@ -85,3 +85,34 @@ table tr:nth-child(even) {
 .clearfix {
     *zoom: 1;
 }
+
+/* tmp added - will copy to style.css later */
+#inside_footer.showcase {
+	position:fixed; z-index:999;
+	bottom:0; left:0; width:100%; height:59px;
+	background:none; border:none;
+} 
+#inside_footer.showcase .chuyengiatuvan_counter{bottom:-50px}
+#inside_footer.showcase .fullsize_controller .prev{left:90px;}
+#inside_footer.showcase .fullsize_controller .next{left:170px;}
+#inside_footer.showcase .fullsize_controller .info{left:250px;}
+.fullsize_controller .back{
+	width:32px; height:33px; 
+	position:absolute; top:9px; left:333px;
+	background:url(imgs/xsx_i1.png) no-repeat;
+}
+.fullsize_controller .back:hover{background-position:0 -33px;}
+
+.fullsize_gallery.showcase .fullsize_slide .items .detail{position:relative; overflow:visible;}
+.fullsize_gallery .fullsize_slide .items .detail .testimonial{
+	position:absolute; width:240px; height:146px;
+	left:480px; top:51px; z-index:99;
+	padding:35px 20px 20px 20px;
+	background-color:#790000;
+	color:#fff;
+}
+.fullsize_gallery .fullsize_slide .items .detail .testimonial_deco{
+	background:url(imgs/testimonial_deco.png) no-repeat;
+	width:26px; height:27px;
+	position:absolute; z-index:99; left:520px; top:252px;
+}
