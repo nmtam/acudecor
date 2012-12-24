@@ -597,20 +597,15 @@
   height:85px;
 }
 .headlines_content {
-  width: 723px;
+  width: 690px;
 }
 .inside_content_wrapper .headlines_items {
-  height: 150px;
+  height: 151px;
   margin-top: 8px;
   border: 1px solid #E2E2E2;
 }
-.inside_content_wrapper .headlines_items  .left{
-  float:left;
-  height: 150px;
-  width: 237px;
-}
 .inside_content_wrapper .headlines_items  .right{
-  float: left; width: 440px; height: 150px;
+  float: left; width: 407px; height: 150px;
   background: #fff;
   padding: 0px 22px;
 }
@@ -628,7 +623,7 @@
 .news_container {
   background: white;
   border: solid 1px #e2e2e2;
-  width: 680px;
+  width: 690px;
   padding: 0px 20px;
 }
 .inside_content_wrapper .news_content {
@@ -643,11 +638,9 @@
 .news_monthly .news_items {
   font: normal 14px Arial, Verdana;
   color: #004a80;
-  padding-bottom: 6px;
+  padding-bottom: 18px;
 }
-.news_monthly .last_news {
-  padding-bottom: 12px;
-}
+
 #consult_news{
   background-position:0 -500px;
   width:690px;
@@ -718,21 +711,21 @@
 }
 
 .consultant_container .social_networks .social_facebook{
-  background: url("imgs/sprite.png") no-repeat -620px 0px;
+  background: url("imgs/sprite.png") no-repeat -1269px -170px transparent;
   height: 21px;
   width: 25px;
   float:left;
 }
 
 .consultant_container .social_networks .social_twitter{
-  background: url("imgs/sprite.png") no-repeat -646px 0px;
+  background: url("imgs/sprite.png") no-repeat -1296px -170px transparent;
   height: 21px;
   width: 25px;
   float:left;
 }
 
 .consultant_container .social_networks .social_gplus{
-  background: url("imgs/sprite.png") no-repeat -671px 0px;
+  background: url("imgs/sprite.png") no-repeat -1322px -170px transparent;
   height: 21px;
   width: 25px;
   float:left;
@@ -751,3 +744,32 @@
   padding: 2px 0px;
 }
 /* end of consultant details page */
+/* Question page */
+.question_container {
+  width: 690px;
+  border: solid 1px #E2E2E2;
+  background: #fff;
+  display: table;
+  padding-top: 35px;
+}
+.question_container .question_section {
+  font: 14px/18.4px Arial, Verdana;
+  padding-bottom: 15px;
+  display: table;
+}
+.question_container .question_pivot {
+  float: left;
+  padding-left: 20px;
+  padding-right: 13px;
+  padding-top: 7px;
+}
+.question_container .question_content {
+  float: left;
+  width: 650px;
+  color: #004a80;
+}
+.question_author {
+  color: #363636;
+  font: 15px/18.4px Arial, Verdana;
+}
+/* end of Question page */
