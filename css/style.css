@@ -641,6 +641,9 @@
   padding-bottom: 18px;
 }
 
+.news_monthly .news_items  li{
+  padding: 2px 0px;
+}
 #consult_news{
   background-position:0 -500px;
   width:690px;
@@ -703,6 +706,7 @@
 
 .consultant_times .image_back{
   vertical-align: top;
+  padding-right: 1px;
 }
 .consultant_container .social_networks .social_notice{
   text-transform:uppercase;
@@ -745,33 +749,41 @@
 }
 /* end of consultant details page */
 /* Question page */
-.question_container {
-  width: 690px;
+#online_question_title {
+  width:690px;
+  background-position:0 -581px;
+  height:85px;
+}
+.inside_content_wrapper .online_question_title {
+  width:690px;
+  height: 100px;
+}
+.online_question_title .question_make {
+  float:right;
+  margin-top: 72px;
+}
+.inside_content_wrapper .question_container {
+  width: 660px;
   border: solid 1px #E2E2E2;
   background: #fff;
   display: table;
-  padding-top: 35px;
+  padding:35px 0px 0px 30px;
+  color: black;
+  list-style-type: square;
 }
-.question_container .question_section {
-  font: 14px/18.4px Arial, Verdana;
-  padding-bottom: 15px;
-  display: table;
-}
-.question_container .question_pivot {
-  float: left;
-  padding-left: 20px;
-  padding-right: 13px;
-  padding-top: 7px;
+.inside_content_wrapper .question_container li{
+  padding-bottom: 12px;
 }
 .question_container .question_content {
-  float: left;
   width: 650px;
   color: #004a80;
+  font: 14px/18.4px Arial, Verdana;
 }
-.question_author {
+.question_container .question_author {
   color: #363636;
   font: 15px/18.4px Arial, Verdana;
 }
+
 /* end of Question page */
 
 
