@@ -152,6 +152,20 @@
 	color:#363636;
 	font-weight:bold;
 }
+.search_keyword {
+ width: 100%;
+}
+.search_keyword  input{
+  border: medium none;
+  background: url("imgs/searchbutton.png")  no-repeat scroll right center #fff;
+  height: 20px;
+  margin-top: 10px;
+  padding-right: 25px;
+  color: #959595;
+  font: normal 12px Arial;
+  padding-left: 9px;
+  width: 126px;
+}
 /* end of LEFT col*/
 
 /* COPYRIGHT & footer */
