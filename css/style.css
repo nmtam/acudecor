@@ -794,11 +794,14 @@
   border: solid 1px #E2E2E2;
   background: #fff;
   display: table;
-  padding:35px 0px 0px 30px;
   color: black;
+  padding: 20px 5px 5px 25px;
+}
+
+.inside_content_wrapper .question_container ul{
   list-style-type: square;
 }
-.inside_content_wrapper .question_container li{
+.inside_content_wrapper .question_container .openmodalbox{
   padding-bottom: 12px;
 }
 .question_container .question_content {

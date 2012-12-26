@@ -22,6 +22,20 @@ $(document).ready(function(){
 });
 
 function initOnlineQuestion() {
+	jQuery(".openmodalbox").modalBox({
+		setStylesOfFadingLayer:  {black : 'background-color:#000; filter:alpha(opacity=80); -moz-opacity:0.8; opacity:0.8;'},
+		setWidthOfModalLayer : 740,
+		minimalTopSpacing : -8,
+		callFunctionAfterShow : function(){
+			$('#modalBox #modalBoxBody .cgtv_popup a').click(function(e){
+				var s = parseInt($(this).attr('data-rel'));
+				slide.cycle(s);
+		
+				jQuery.fn.modalBox("close");
+				e.preventDefault();
+			});
+		}
+	});
 }
 function initShowcase(){
 	var sc = $('.showcase_wrapper .sc_items');
