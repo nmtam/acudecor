@@ -789,19 +789,24 @@
   text-transform: uppercase;
   font: 12px Arial, Verdana;
 }
-.inside_content_wrapper .question_container {
+
+.question_content_wrapper {
+	position:relative;
+	padding:50px 0 80px 239px;
+}
+.question_content_wrapper .question_container {
   width: 660px;
   border: solid 1px #E2E2E2;
   background: #fff;
   display: table;
   color: black;
-  padding: 20px 5px 5px 25px;
+  padding: 35px 5px 5px 35px;
 }
 
-.inside_content_wrapper .question_container ul{
+.question_content_wrapper .question_container ul{
   list-style-type: square;
 }
-.inside_content_wrapper .question_container .openmodalbox{
+.question_content_wrapper .question_container .openmodalbox{
   padding-bottom: 12px;
 }
 .question_container .question_content {
@@ -811,7 +816,7 @@
 }
 .question_container .question_author {
   color: #363636;
-  font: 15px/18.4px Arial, Verdana;
+  font: bold 12px/18.4px Arial, Verdana;
 }
 
 /* end of Question page */
