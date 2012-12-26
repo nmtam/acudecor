@@ -768,13 +768,26 @@
   background-position:0 -581px;
   height:85px;
 }
-.inside_content_wrapper .online_question_title {
+.inside_content_wrapper .online_question_title_container {
   width:690px;
-  height: 100px;
+  height: 103px;
 }
-.online_question_title .question_make {
-  float:right;
-  margin-top: 72px;
+.online_question_title_container .question_make {
+  position: relative;
+  left: 569px;
+  bottom: 26px;
+  background: #f7941d;
+  width: 121px;
+  height: 25px;
+  border-radius: 4px;
+  text-align: center;
+  color: #fff;
+}
+.question_make .make_center {
+  height: 25px;
+  padding-top: 5px;
+  text-transform: uppercase;
+  font: 12px Arial, Verdana;
 }
 .inside_content_wrapper .question_container {
   width: 660px;

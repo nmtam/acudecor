@@ -18,8 +18,11 @@ $(document).ready(function(){
 	initServiceTKNT();
 	initServiceCPTH();
 	initShowcase();
+	initOnlineQuestion();
 });
 
+function initOnlineQuestion() {
+}
 function initShowcase(){
 	var sc = $('.showcase_wrapper .sc_items');
 	if (sc.length > 0) {
