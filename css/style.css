@@ -773,21 +773,16 @@
   height: 103px;
 }
 .online_question_title_container .question_make {
-  position: relative;
-  left: 569px;
-  bottom: 26px;
+  position: absolute;
+  left: 819px;
+  top: 121px;
   background: #f7941d;
   width: 121px;
   height: 25px;
   border-radius: 4px;
   text-align: center;
   color: #fff;
-}
-.question_make .make_center {
-  height: 25px;
-  padding-top: 5px;
-  text-transform: uppercase;
-  font: 12px Arial, Verdana;
+  font: 12px/25px Arial, Verdana;
 }
 
 .question_content_wrapper {
